@@ -13,7 +13,7 @@ A Python-based bioinformatics toolkit that performs multiple analyses on a DNA s
 - Detects start codon ("ATG") position  
 
 ## Example Output
-
+```
 Original DNA: ATGXCGAATIOGZC
 Cleaned DNA: ATGCGAATGC
 RNA Sequence: AUGCGAAUGC
@@ -27,7 +27,7 @@ GC Content: 50.0%
 Complement: TACGCTTACG
 Reverse Complement: GCATTAGCAT
 Codon 'ATG' found at position: 0
-
+```
 ## What I Learned
 
 - String manipulation in Python
