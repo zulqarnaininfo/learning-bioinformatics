@@ -19,4 +19,8 @@ rna_seq = dna_seq.replace("T","U")
 print(f"RNA Sequence :{rna_seq}")
 
 # Position of a Codon "ATG"
-print(f"Codon 'ATG' Found at Position :{dna_seq.find("ATG")}")
+position = dna_seq.find("ATG")
+if position != -1:
+    print(f"Codon 'ATG' Found at Position :{position}")
+else:
+    print("Codon 'ATG' not found.")
