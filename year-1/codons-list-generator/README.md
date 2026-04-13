@@ -1,4 +1,4 @@
-# Codon List Generator
+# Codons List Generator
 
 This project is a beginner-level Python bioinformatics script that splits a DNA sequence into codons (groups of 3 bases). It helps in understanding sequence indexing, slicing, and basic biological data processing.
 
