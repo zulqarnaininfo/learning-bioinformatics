@@ -1,4 +1,4 @@
-# DNA Sequence Analysis Toolkit
+# DNA Sequence Analysis Toolkit v3
 
 This project is a Python-based bioinformatics toolkit designed to perform common DNA sequence analysis tasks. It allows users to input a DNA sequence, clean it, and perform multiple operations such as transcription, nucleotide counting, GC content calculation, and more. The toolkit demonstrates how basic biological concepts can be implemented using programming and how code can evolve from simple scripts into a structured, interactive tool.
 
@@ -20,9 +20,8 @@ This project is a Python-based bioinformatics toolkit designed to perform common
 - v2: Interactive menu-driven toolkit using loop "while True" and "break" for continuous execution
 - v3: Function-based modular toolkit with improved structure, reusable functions, and error handling (e.g., safe GC content calculation)
 
-```
 ## Example Output (v3)
-
+```
 Enter DNA sequence: ATGXTCGAZ
 
 --->DNA TOOLKIT<---
