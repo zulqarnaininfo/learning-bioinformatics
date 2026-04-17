@@ -14,3 +14,6 @@ Python script that compares two DNA sequences and detects mutations between them
 
 - Learn more about index-based logics and syntax
 - Learn how to use flag variable and its other uses
+
+## Date
+15 April 2026
