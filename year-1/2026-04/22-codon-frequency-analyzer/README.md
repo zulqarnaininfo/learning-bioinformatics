@@ -9,3 +9,6 @@ Python script that analyzes an RNA sequence and counts how many times each codon
 - How dictionaries store and update key-value pairs dynamically  
 - How to use codon counting for biological sequence analysis  
 - How real bioinformatics tools analyze sequence frequency patterns
+
+## Date
+15 April 2026
