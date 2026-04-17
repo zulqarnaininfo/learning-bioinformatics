@@ -3,6 +3,7 @@
 This is a Python bioinformatics script that simulates the biological process of translation. It converts an RNA sequence into a chain of amino acids (protein) using codon mapping based on the genetic code.
 
 ## What I Learned
+
 - I learned how translation works in biology (RNA → Protein)  
 - How codons (groups of 3 bases) represent amino acids  
 - How to use loops with `range()` to process sequences  
@@ -17,3 +18,6 @@ This is a Python bioinformatics script that simulates the biological process of 
 The codon mapping used in this project is based on the standard genetic code table:
 
 ![Genetic Code](genetic_code.png)
+
+## Date
+14 April 2026
