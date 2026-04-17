@@ -9,3 +9,6 @@ Python script that calculates and compares the GC content of two DNA sequences. 
 - How to use percentages in biological calculations  
 - How to compare values between two sequences  
 - How to handle basic edge cases like empty sequences
+
+## Date
+15 April 2026
