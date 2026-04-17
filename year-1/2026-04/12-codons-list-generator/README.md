@@ -14,3 +14,6 @@ This project is a beginner-level Python bioinformatics script that splits a DNA 
 ## Learn Goal
 
 Understand list-based processing and improve my understanding of slicing (`i:i+3`) and how sequence splitting works in practice.
+
+## Date
+13 April 2026
