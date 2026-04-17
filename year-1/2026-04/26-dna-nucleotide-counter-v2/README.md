@@ -10,3 +10,6 @@ This script is a function-based DNA analysis tool that counts the number of each
 - How to return multiple values from a function  
 - How to pass processed data between functions  
 - How to structure a simple bioinformatics pipeline using functions
+
+## Date
+16 April 2026
