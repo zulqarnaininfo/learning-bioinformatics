@@ -24,21 +24,6 @@ Everything here is created as I learn, so it reflects real growth over time.
 - Build a consistent learning habit
 - Gradually move toward more advanced projects
 
----
-
-## 🗂 Repository Structure
-
-year-1/  
-2026-04/  
-00-dna-nucleotide-counter/  
-script.py  ...
-
-- Projects are organized chronologically
-- Each folder represents a learning step
-- Code may be simple, experimental, or incomplete
-
----
-
 ## 🧭 Learning Approach
 
 I am not following a strict roadmap.
