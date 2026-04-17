@@ -32,3 +32,6 @@ This project is a Python-based bioinformatics tool that converts a DNA sequence 
 - To handle user input more safely (avoid crashes)  
 - To make the program more dynamic instead of pre-calculated  
 - To move towards building a complete bioinformatics toolkit
+
+## Date
+16 April 2026
