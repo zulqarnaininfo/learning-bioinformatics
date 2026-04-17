@@ -13,6 +13,7 @@ A Python-based bioinformatics toolkit that performs multiple analyses on a DNA s
 - Detects start codon ("ATG") position  
 
 ## Example Output
+
 ```
 Original DNA: ATGXCGAATIOGZC
 Cleaned DNA: ATGCGAATGC
@@ -35,3 +36,6 @@ Codon 'ATG' found at position: 0
 - Using built-in functions like .count(), .replace(), and .find()
 - Building a step-by-step bioinformatics pipeline
 - Understanding DNA sequence analysis basics
+
+## Date
+12 April 2026
