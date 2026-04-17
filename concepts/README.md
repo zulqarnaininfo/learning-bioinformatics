@@ -1,38 +1,35 @@
 # 🧠 Concepts
 
-This folder contains short, simplified explanations of bioinformatics concepts learned through my coding projects.
+This folder contains structured explanations of bioinformatics and programming concepts learned during my journey.
 
-Each concept is linked to a corresponding project in the `journey/` folder.
+Unlike the `journey/` folder, which tracks experiments and learning steps, this folder focuses on clear understanding of ideas.
 
 ---
 
 ## 📌 Structure
 
-Concepts are written as small notes:
-- 1–2 line idea explanation
-- Basic biology (if needed)
-- Simple programming idea used
-- Link to related project
+Concepts are organized by topic:
+
+- Python basics
+- Bioinformatics foundations
+- DNA/RNA concepts
+- Sequence analysis
+
+Each file explains a concept in a readable and reusable way.
 
 ---
 
-## 🧬 Purpose
+## 🎯 Purpose
 
-- To convert coding practice into understanding  
-- To build a simple knowledge base while learning  
-- To revise concepts easily later  
+- Build strong understanding of programming and biology
+- Turn practice into knowledge
+- Create a long-term revision resource
 
 ---
 
-## 🔗 Linking
+## 🔗 Linking 
 
-Each concept file should link to its related project in `journey/`.
+Each concept file is linked to one or more projects in the `journey/` folder.
 
 Example:
-- DNA nucleotide counting → linked to a specific journey project folder
-
----
-
-## 📈 Note
-
-This folder will grow alongside my learning journey and will be updated regularly.
+DNA nucleotide counting → linked to journey project folder
