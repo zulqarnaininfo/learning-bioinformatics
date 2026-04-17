@@ -12,3 +12,6 @@ This python script is an improved version of a DNA cleaning tool built using fun
 - How to unpack multiple returned values into variables  
 - How to make reusable functions for bioinformatics tasks  
 - How to track additional information (invalid characters) during processing
+
+## Date
+16 April 2026
