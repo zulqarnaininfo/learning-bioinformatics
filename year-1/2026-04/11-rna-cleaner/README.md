@@ -6,4 +6,7 @@ Python script that focuses on cleaning RNA sequences and converting RNA into DNA
 - Filter valid RNA bases (A, U, G, C)  
 - Basic RNA sequence cleaning  
 - RNA → DNA conversion logic (U → T)  
-- Using '.replace()' for biological transformations
+- Using `.replace()` for biological transformations
+
+## Date
+12 April 2026
