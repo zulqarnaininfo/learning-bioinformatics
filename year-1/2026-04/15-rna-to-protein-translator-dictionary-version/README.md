@@ -4,6 +4,7 @@ This is a Python bioinformatics tool that simulates the biological process of tr
 Translation begins from a start codon (AUG) and stops at stop codons (UAA, UAG, UGA), mimicking real biological systems.
 
 ## What I Learned
+
 - How RNA is translated into proteins in biology  
 - How codons (triplets of nucleotides) map to amino acids  
 - How to use dictionaries for biological data mapping  
@@ -20,3 +21,6 @@ The codon-to-amino acid mapping used in this project is based on the standard ge
 ![Genetic Code Reference](genetic_code.png)
 
 This image represents the biological codon table used to construct the dictionary in this program.
+
+## Date
+14 April 2026
