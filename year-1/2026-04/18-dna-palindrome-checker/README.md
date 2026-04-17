@@ -10,3 +10,6 @@ In biology, a DNA palindrome means that the sequence is equal to its reverse com
 - How to reverse a sequence using slicing  
 - How to compare two sequences  
 - How to clean input DNA sequences
+
+## Date
+15 April 2026
