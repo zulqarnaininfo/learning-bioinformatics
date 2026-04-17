@@ -10,3 +10,6 @@ This script is a function-based DNA analysis tool that calculates the GC content
 - How to calculate GC content using nucleotide counting  
 - How to combine multiple functions into a pipeline  
 - Debugging errors related to NoneType and variable scope
+
+## Date
+16 April 2026
