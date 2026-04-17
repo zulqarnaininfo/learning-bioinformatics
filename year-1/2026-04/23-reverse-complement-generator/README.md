@@ -9,3 +9,6 @@ Python script that generates the reverse complement of a DNA sequence. The rever
 - How to combine reverse and complement operations in one step  
 - How to build efficient sequence transformation logic  
 - How DNA reverse complement is used in real bioinformatics analysis
+
+## Date
+15 April 2026
