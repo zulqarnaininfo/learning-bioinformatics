@@ -1,91 +1,67 @@
 # 🧬 learning-bioinformatics
 
-A structured collection of projects, scripts, exercises, and notes documenting my journey into bioinformatics — starting from **absolute zero** and progressing toward more advanced topics.
+A collection of projects, scripts, exercises, and notes documenting my journey into bioinformatics — starting from **absolute zero.**
 
 ---
 
-## 🚀 About This Repository
+## ℹ️ About This Repository
 
-This repository is a personal learning space where I:
+This repository is my personal learning space where I:
 
-* Learn programming (starting with Python) from scratch
-* Apply coding skills to biological problems
-* Build small projects related to DNA, RNA, and protein analysis
-* Track my progress step by step
+- Learn programming (starting with Python)
+- Apply coding to biological problems
+- Build small projects related to DNA, RNA, and proteins
+- Track my progress step by step
 
-Everything here is written and built as I learn, so it can be followed from the very beginning.
+Everything here is created as I learn, so it reflects real growth over time.
 
 ---
 
 ## 🎯 Goals
 
-* Start from **level zero (no prior bioinformatics knowledge)**
-* Practice programming in a bioinformatics context
-* Understand core biological concepts (DNA, RNA, proteins)
-* Progress from beginner to intermediate-level projects
-* Build a consistent learning habit
+- Start from level zero
+- Practice programming in a bioinformatics context
+- Understand core biological concepts (DNA, RNA, proteins)
+- Build a consistent learning habit
+- Gradually move toward more advanced projects
 
 ---
 
 ## 🗂 Repository Structure
 
-This repository uses a **hybrid structure** combining a learning timeline with organized concepts.
+year-1/
+  2026-04/
+    00-dna-nucleotide-counter/
+    01-...
 
-### 📈 `journey/` — Learning Timeline
-
-```bash
-journey/
-  year-1/
-    2026-04/
-      00-dna-nucleotide-counter/
-      01-...
-```
-
-* Projects are added in chronological order
-* Reflects what I was learning at that time
-* Code may be simple, experimental, or imperfect
-
----
-
-### 📚 `concepts/` — Organized Knowledge
-
-* Clear explanations of concepts I’ve learned
-* Key ideas and simplified notes
-* Small code examples
-* Links to related projects in `journey/`
+- Projects are organized chronologically
+- Each folder represents what I learned at that time
+- Code may be simple, experimental, or imperfect
 
 ---
 
 ## 🧭 Learning Approach
 
-I am not following a strict predefined roadmap.
+I am not following a strict roadmap.
 
-Instead:
+Instead, I:
 
-* I learn step by step
-* Build projects as I go
-* Improve through practice and iteration
-
-The difficulty increases naturally over time.
+- Learn step by step
+- Build projects as I go
+- Improve through practice and iteration
 
 ---
 
 ## 📌 Note
 
-This is a **learning repository**, not a polished or final resource.
+This is a learning repository, not a polished portfolio.
 
-* Code may be simple, experimental, or imperfect
-* Concepts are written in my own words as I learn
-* The focus is on **consistency and growth**, not perfection
+- Code may be simple or incomplete
+- Concepts are written in my own words
+- The focus is on consistency and improvement
 
 ---
 
 ## 📈 Progress
 
-This repository will be continuously updated as I learn and improve.
-
----
-
-## 🤝 Contributions
-
-This is primarily a personal learning project, but suggestions, corrections, and ideas are welcome.
+This repository will continue to grow as I learn.
