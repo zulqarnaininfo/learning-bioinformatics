@@ -19,3 +19,6 @@ This project uses the standard genetic codon table for translation.
 ![Genetic Codon Table](genetic_code.png)
 
 This image shows how each RNA codon corresponds to a specific amino acid.
+
+## Date
+16 April 2026
