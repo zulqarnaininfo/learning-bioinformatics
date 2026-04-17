@@ -10,3 +10,6 @@ This script is a function-based RNA cleaning tool. It takes an RNA sequence as i
 - How to track invalid characters during processing  
 - How to return multiple values from a function  
 - How to unpack function outputs into variables
+
+## Date
+16 April 2026
