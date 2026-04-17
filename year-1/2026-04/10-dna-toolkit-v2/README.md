@@ -19,6 +19,7 @@ A Python-based bioinformatics toolkit that performs multiple analyses on DNA seq
 - **v2**: Interactive menu-driven toolkit using loop 'while True' and 'break' for continuous execution
 
 ## Example Output (v2)
+
 ```
 --- DNA TOOLKIT ---
 1. Clean DNA
@@ -56,3 +57,6 @@ Bye Bye
 - As the code became larger and less efficient, improved the design
 - Replaced full analysis with a loop-based system (while True) for better control and usability
 - Final result is an interactive toolkit where users can perform operations repeatedly without restarting the program
+
+## Date
+12 April 2026
