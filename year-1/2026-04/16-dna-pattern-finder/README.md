@@ -15,3 +15,6 @@ It simulates a basic form of biological sequence searching used in genomics.
 ## Learn Goal
 
 - Understand more about `len(sequence) - pattern_length + 1` and similar stuffs
+
+## Date
+14 April 2026
