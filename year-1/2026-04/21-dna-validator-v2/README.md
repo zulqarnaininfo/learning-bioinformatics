@@ -9,3 +9,6 @@ Python script that checks whether a DNA sequence is valid or contains invalid ch
 - How to clean biological data  
 - How to use counters to track changes in data  
 - How to separate valid and invalid inputs logically
+
+## Date
+15 April 2026
