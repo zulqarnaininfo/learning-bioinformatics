@@ -68,3 +68,6 @@ Reverse Complement : TCGATT
 - Introduced functions to make the code reusable and modular
 - Added error handling and improved data flow (cleaned DNA used across all functions)
 - Final result is an interactive toolkit where users can perform operations repeatedly without restarting the program
+
+## Date
+16 April 2026
