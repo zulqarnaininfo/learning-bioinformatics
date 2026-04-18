@@ -33,7 +33,7 @@ Second read returns empty string
 2. Mixed `.read()` with `for line in f`
 File pointer already at end
 3. Did not store `.strip()` in variable
-`line.strip()` does nothing without any assignment
+`line.strip()` does nothing without any assignment   
 ✅ Fixed Code
 ```py
 with open("dna.txt", "r") as f:
