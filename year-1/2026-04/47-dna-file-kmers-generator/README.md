@@ -1,4 +1,4 @@
-K-mers from a DNA File
+# K-mers from a DNA File
 
 This project is a Python-based bioinformatics tool that generates k-mers from DNA sequences stored in a file.
 
