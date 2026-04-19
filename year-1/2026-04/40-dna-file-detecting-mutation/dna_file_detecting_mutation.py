@@ -21,5 +21,3 @@ with open("dna.txt","r") as f:
         print(f"DNA1 : {clean_dna1}")
         print(f"DNA2 : {clean_dna2}")
         print(f"Mutation : {mutation}")
-        print(lines)
-        print(len(lines))
