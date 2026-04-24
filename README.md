@@ -8,10 +8,10 @@ A collection of projects and scripts documenting my journey into bioinformatics 
 
 This is my personal learning space where I:
 
-- Learn programming (starting with Python)
-- Apply coding to biological problems
-- Build small projects related to DNA, RNA, and proteins
-- Track my progress step by step
+- Learn programming using Python as a starting point  
+- Apply coding to biological problems  
+- Build small projects related to DNA, RNA, and proteins  
+- Track my progress step by step  
 
 Everything here is created as I learn, so it reflects real growth over time.
 
@@ -19,20 +19,20 @@ Everything here is created as I learn, so it reflects real growth over time.
 
 ## 🎯 Goals
 
-- Practice programming in a bioinformatics context
-- Understand core biological concepts (DNA, RNA, proteins)
-- Build a consistent learning habit
-- Gradually move toward more advanced projects
+- Practice programming in a bioinformatics context  
+- Understand core biological concepts (DNA, RNA, proteins)  
+- Build a consistent learning habit  
+- Gradually move toward more advanced projects  
 
 ## 🧭 Learning Approach
 
-I am not following a strict roadmap.
+I focus on flexible, step-by-step learning.
 
-Instead, I:
+Instead of strictly following a fixed roadmap, I:
 
-- Learn step by step
-- Build projects as I go
-- Improve through practice
+- Learn concepts as needed  
+- Build projects alongside learning  
+- Improve through continuous practice  
 
 ---
 
@@ -40,9 +40,9 @@ Instead, I:
 
 This is a learning repository, not a polished portfolio.
 
-- Code may be simple or incomplete
-- Everything is written in my own words
-- Focus is on consistency and improvement
+- Code may be simple or incomplete  
+- Everything is written in my own words  
+- Focus is on consistency and improvement  
 
 ---
 
