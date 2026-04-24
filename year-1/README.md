@@ -14,7 +14,7 @@
 
 | Month        | Progress |
 |--------------|----------|
-| [April 2026](https://github.com/zulbioinfo/learning-bioinformatics/tree/main/year-1/2026-04)   | Started Python, ---still learning--- |
+| [April 2026](https://github.com/zulqarnaininfo/learning-bioinformatics/tree/main/year-1/2026-04)   | Learned Python basics through bioinformatics projects. Built 40+ scripts covering DNA/RNA manipulation, validation, transcription, translation, mutation detection, file handling, and k-mers generation. Detailed Progress: [April 2026 - Month 1](https://github.com/zulqarnaininfo/learning-bioinformatics/blob/main/year-1/2026-04/README.md) |
 | May 2026     |          |
 | June 2026    |          |
 | July 2026    |          |
@@ -26,4 +26,3 @@
 | January 2027 |          |
 | February 2027 |         |
 | March 2027   |          |
-| April 2027   |          |
